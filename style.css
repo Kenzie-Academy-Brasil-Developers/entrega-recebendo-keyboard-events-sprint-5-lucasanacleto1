@@ -1,0 +1,8 @@
+#box {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    background-image: url(dog.jpg);
+    left: 200px;
+    top: 200px;
+}
